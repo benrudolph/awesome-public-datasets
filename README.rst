@@ -479,6 +479,7 @@ Social Networks
 * `Indie Map: social graph and crawl of top IndieWeb sites <http://www.indiemap.org/>`_
 * `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
 * `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
+* `Reddit Amazon Products <https://github.com/ThingsOnReddit/top-things/>`_
 * `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
 * `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
 * `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_
